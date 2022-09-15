@@ -13,7 +13,15 @@
  Don't attack any websites you don't own it<br/>
  This was created for educational purposes<br/>
  All responsibilities and disadvantages of using this program is for the user.
- 
+## Setup Chạy Lệnh Ddos
+
++ pkg install git 
+
++ git clone https://github.com/sangcoder0707/kramaddosv1
+
++ cd KARMA-DDOS
+
++ python main.py
 
 ## Language</br>
 
