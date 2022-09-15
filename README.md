@@ -13,7 +13,7 @@
  Don't attack any websites you don't own it<br/>
  This was created for educational purposes<br/>
  All responsibilities and disadvantages of using this program is for the user.
-## Setup Chạy Lệnh Ddos
+# Setup Chạy Lệnh Ddos
 
 + pkg install git 
 
